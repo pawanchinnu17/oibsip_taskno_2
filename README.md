@@ -1,1 +1,2 @@
-# oibsip_taskno_2
+
+This Python data analysis project examines unemployment trends over a specified timeframe using data visualization techniques. It delves into data preprocessing, statistical analysis, and insightful visualizations like line charts, bar graphs, heatmaps, and pie charts to uncover patterns and correlations within the unemployment data. By providing a user-friendly Jupyter Notebook, this project enables users to explore the analysis step by step, gaining a deeper understanding of unemployment dynamics. Whether you're interested in economics, data analysis, or simply curious about unemployment patterns, this project offers valuable insights and a structured approach to uncovering key trends in the dataset.
